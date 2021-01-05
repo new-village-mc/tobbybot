@@ -1,0 +1,22 @@
+{
+  "name": "tobbybot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/new-village-mc/tobbybot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/new-village-mc/tobbybot/issues"
+  },
+  "homepage": "https://github.com/new-village-mc/tobbybot#readme",
+  "dependencies": {
+    "mineflayer": "^2.40.1"
+  }
+}
